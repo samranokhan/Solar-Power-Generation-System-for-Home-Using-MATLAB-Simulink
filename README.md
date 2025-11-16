@@ -114,36 +114,8 @@ Renewable Energy Education
 
 👨‍💻 Author
 
-Sami Nawar
-Electrical Engineering
-(You can add your university name here)
+Samran Nawar
+Electrical Engineering student at uet mardan
+
 
 ⭐ Feel free to give this project a star!
-🔗 LinkedIn Post Description
-
-Use the text below on LinkedIn:
-
-🌞 Solar Power Generation System for Home using MATLAB/Simulink
-
-I am excited to share my semester project where I designed and simulated a complete Solar PV energy conversion system capable of powering a home.
-
-The system includes:
-✔ PV Array
-✔ DC–DC Boost Converter
-✔ PWM Control
-✔ IGBT-Based Switching
-✔ Universal Bridge Inverter
-✔ LC Filter for AC Output
-
-🔍 Why this project is important for EMF (Electromagnetic Fields)
-This work connects renewable energy with EMF concepts such as:
-
-Electric & magnetic field energy in inductors/capacitors
-
-Electromagnetic transients during switching
-
-AC field behavior in inverter output
-
-PV cell energy conversion using electromagnetic radiation
-
-🛠 Tools Used: MATLAB/Simulink & Simscape Electrical
